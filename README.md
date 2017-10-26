@@ -25,3 +25,5 @@ Every directory starts with "Stage" has three sub-directory, Code, Input and Out
 		- Output: final result.
 
 
+## Note 
+The code is dirty and leaky. Just for reading.
